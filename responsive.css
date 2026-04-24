@@ -1,0 +1,25 @@
+@media (max-width: 810px) {
+
+    .navbar {
+        padding: 0 24px;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    .btn-signin {
+        display: none;
+    }
+
+    #icon {
+        display: block;
+    }
+
+    .menu-content.active {
+        display: block;
+    }
+
+
+
+}
